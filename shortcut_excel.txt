@@ -1,0 +1,16 @@
+1. CTRL+A = Blok seluruh tabel
+2. CTRL+A (2x) = Blok seluruh worksheet
+3. CTRL+T = Buat tabel otomatis
+4. ALT+FN+F1 = Buat grafik
+5. CTRL+SHIFT+L = Filter data (tekan lagi untuk menghilangkan filter)
+6. CTRL+KURSOR = Pindah ke ujung data
+7. CTRL+SHIFT+KURSOR = Blok sampai ujung data
+8. CTRL+1 = Menampilkan menu format
+9. CTRL+Z = Undo
+10. CTRL+Y = Redo
+11. ALT+H+V+V = Paste value (paste tanpa rumus/rumus tidak ikut ter paste)
+12. ALT+= = Menjumlahkan data
+13. ALT+ENTER = Dua baris dalam satu sel yang sama
+14. CTRL+SPACE = Blok satu kolom
+15. SHIFT+SPACE = Blok satu baris
+16. Menambahkan baris/kolom
