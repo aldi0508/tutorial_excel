@@ -13,4 +13,7 @@
 13. ALT+ENTER = Dua baris dalam satu sel yang sama
 14. CTRL+SPACE = Blok satu kolom
 15. SHIFT+SPACE = Blok satu baris
-16. Menambahkan baris/kolom
+16. CTRL+SHIFT+= = Menambahkan baris/kolom
+17. CTRL+- = Menghapus baris/kolom
+18. CTRL+9 = Menyembunyikan baris/kolom
+19. ALT+N+V = Membuat Pivot Table
